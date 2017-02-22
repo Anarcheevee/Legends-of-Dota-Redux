@@ -45,7 +45,7 @@
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"stun_chance"	"5 10 15"
+				"stun_chance"	"7 11 15"
 			}
 			"03"
 			{
